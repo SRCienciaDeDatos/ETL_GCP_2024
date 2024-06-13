@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d7c64ab-ba3c-4e6b-b2e4-0804489a22e9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2c67QEuPHzTBsAp8JP82EcTPbUt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/OMBARRAZA/Documents/Github/ETL GCP&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlserver&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Eroute Queries.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/SQL/Eroute Queries.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="f6cc27c7-ccf3-4c63-909d-607e702be375" namespace="database/&quot;ASR&quot;/schema/&quot;dbo&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Database Script.Eroute Queries.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d7c64ab-ba3c-4e6b-b2e4-0804489a22e9" name="Changes" comment="" />
+      <created>1707420156325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707420156325</updated>
+      <workItem from="1707420157390" duration="31813000" />
+      <workItem from="1707834810468" duration="24481000" />
+      <workItem from="1707932648223" duration="11814000" />
+      <workItem from="1708007753263" duration="16323000" />
+      <workItem from="1708030094755" duration="267000" />
+      <workItem from="1708030428730" duration="2983000" />
+      <workItem from="1708033464728" duration="9324000" />
+      <workItem from="1708108789379" duration="6312000" />
+      <workItem from="1708357891065" duration="12423000" />
+      <workItem from="1708374859928" duration="6692000" />
+      <workItem from="1708526248202" duration="25390000" />
+      <workItem from="1709225349738" duration="7079000" />
+      <workItem from="1709232883664" duration="827000" />
+      <workItem from="1709234051892" duration="813000" />
+      <workItem from="1709234887772" duration="2943000" />
+      <workItem from="1709304320505" duration="756000" />
+      <workItem from="1709305095709" duration="558000" />
+      <workItem from="1709306280643" duration="6695000" />
+      <workItem from="1709314609920" duration="11799000" />
+      <workItem from="1709563328767" duration="11658000" />
+      <workItem from="1709651548019" duration="19075000" />
+      <workItem from="1710445741410" duration="1178000" />
+      <workItem from="1718051906734" duration="63989000" />
+      <workItem from="1718119680644" duration="2748000" />
+      <workItem from="1718295407437" duration="101000" />
+      <workItem from="1718295545877" duration="224000" />
+      <workItem from="1718295788927" duration="60000" />
+      <workItem from="1718295900000" duration="224000" />
+      <workItem from="1718296148006" duration="340000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/OMBARRAZA/Documents/Github/ETL GCP/ETL GCP.ipynb</url>
+          <line>188</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/OMBARRAZA/Documents/Github/ETL GCP/ETL GCP.ipynb</url>
+          <line>277</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/OMBARRAZA/Documents/Github/ETL GCP/ETL GCP.ipynb</url>
+          <line>327</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/OMBARRAZA/Documents/Github/ETL GCP/ETL GCP Daily.ipynb</url>
+          <line>275</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/OMBARRAZA/Documents/Github/ETL GCP/ETL GCP Range of time.ipynb</url>
+          <line>100</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/OMBARRAZA/Documents/Github/ETL GCP/ETL GCP Range of time.ipynb</url>
+          <line>253</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/OMBARRAZA/Documents/Github/ETL GCP/ETL GCP Range of time.ipynb</url>
+          <line>523</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
